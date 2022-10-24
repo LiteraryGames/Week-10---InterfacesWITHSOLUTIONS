@@ -1,6 +1,6 @@
 Unit 04 Instructions
 
-The goal is to have two buttons: move left and move right, that move the sphere a certain amount when clicked.
+The goal is to have two buttons: move left and move right, that move BOTH spheres a certain amount when clicked.
 
 The sphere already has a component on it called "MoveObject". 
 
