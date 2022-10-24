@@ -10,15 +10,17 @@ public class ChangeTextValue : MonoBehaviour
 
     TextMeshProUGUI textMeshProUGUI;
 
+    [SerializeField] GameObject cube;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        textMeshProUGUI = GetComponent<TextMeshProUGUI>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        textMeshProUGUI.text = cube.transform.position.y.ToString();
     }
 }
