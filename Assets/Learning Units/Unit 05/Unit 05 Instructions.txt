@@ -1,0 +1,12 @@
+Unit 05 Instructions
+
+The goal is to show the Y coordinate of the cube on the screen. 
+You will need to add some extra code to the "ChangeTextValue.cs" 
+Component on the Text (TMP) GameObject. 
+You will probably need to make edits in the Inspector as well 
+(but nothing needs to be added to the Inspector).
+
+The sphere already has a component on it called "MoveObject". 
+
+You do not need to write or edit any scripts for this, 
+but you might need to add something in the scene...
