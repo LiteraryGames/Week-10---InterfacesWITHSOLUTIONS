@@ -13,8 +13,6 @@ public class ChangeTextValue : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        textMeshProUGUI = GetComponent<TextMeshProUGUI>();
-        textMeshProUGUI.text = "my string of text";
         
     }
 
